@@ -51,9 +51,6 @@
     <a class="instagram" href="http://instagram.com/{{ site.instagram_user }}" title="Instagram">Instagram</a>
 		{% endif %}
 	</div>
-	<form class="search" action="{{ site.simple_search }}" method="get">
-		<input class="alignright" type="text" name="q" results="0">
-		<input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}">
-	</form>
+	
 </nav>
 {% include custom/header.html %}

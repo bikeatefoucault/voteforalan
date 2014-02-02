@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[competency in moderation]]></title>
+  <link href="https://voteforalan.herokuapp.com//atom.xml" rel="self"/>
+  <link href="https://voteforalan.herokuapp.com//"/>
+  <updated>2014-02-01T19:29:00-05:00</updated>
+  <id>https://voteforalan.herokuapp.com//</id>
+  <author>
+    <name><![CDATA[alan genser]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
