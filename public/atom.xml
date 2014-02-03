@@ -4,7 +4,7 @@
   <title><![CDATA[competency in moderation]]></title>
   <link href="https://voteforalan.herokuapp.com//atom.xml" rel="self"/>
   <link href="https://voteforalan.herokuapp.com//"/>
-  <updated>2014-02-02T21:52:28-05:00</updated>
+  <updated>2014-02-03T00:05:15-05:00</updated>
   <id>https://voteforalan.herokuapp.com//</id>
   <author>
     <name><![CDATA[alan genser]]></name>
@@ -12,14 +12,5 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[the story so far]]></title>
-    <link href="https://voteforalan.herokuapp.com//blog/2014/02/02/welcome/"/>
-    <updated>2014-02-02T11:21:24-05:00</updated>
-    <id>https://voteforalan.herokuapp.com//blog/2014/02/02/welcome</id>
-    <content type="html"><![CDATA[<p>aspiring web developer seeks transitional employment.</p>
-]]></content>
-  </entry>
   
 </feed>
