@@ -6,3 +6,8 @@ comments: true
 sharing: true
 footer: true
 ---
+Over fifteen years as an event production technician has cultivated an ease with mission critical planning, project management, and logistics.
+
+<br />
+<br />
+
