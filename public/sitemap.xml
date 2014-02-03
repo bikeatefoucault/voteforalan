@@ -1,12 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>https://voteforalan.herokuapp.com//blog/2014/02/02/welcome/</loc>
+        <lastmod>2014-02-02T14:09:42-05:00</lastmod>
+    </url>
+    <url>
         <loc>https://voteforalan.herokuapp.com//blog/archives/</loc>
-        <lastmod>2014-02-01T16:38:57-05:00</lastmod>
+        <lastmod>2014-02-02T14:09:42-05:00</lastmod>
+    </url>
+    <url>
+        <loc>https://voteforalan.herokuapp.com//blog/</loc>
+        <lastmod>2014-02-02T14:09:42-05:00</lastmod>
     </url>
     <url>
         <loc>https://voteforalan.herokuapp.com//</loc>
-        <lastmod>2014-02-01T16:38:57-05:00</lastmod>
+        <lastmod>2014-02-02T21:52:27-05:00</lastmod>
     </url>
     <url>
         <loc>https://voteforalan.herokuapp.com//robots.txt</loc>

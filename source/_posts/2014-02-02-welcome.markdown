@@ -1,0 +1,9 @@
+---
+layout: post
+title: "the story so far"
+date: 2014-02-02 11:21:24 -0500
+comments: true
+categories: 
+---
+
+aspiring web developer seeks transitional employment.
