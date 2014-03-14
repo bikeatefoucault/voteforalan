@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 ---
-Over fifteen years in the field of event production has cultivated an ease with mission critical everything.
+Over fifteen years experience lighting and rigging concerts, plays, and corporate events has cultivated an ease with mission critical everything. 
 
 The three years I spent with <a href="http://www.carolinaoptics.com">Carolina Optics</a> as a trainer and technician for several lines of ophthalmic imaging devices refined my ability to adapt delivery of complex subject matter to the needs of the listener.
 
